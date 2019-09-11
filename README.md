@@ -1,1 +1,1 @@
-**This file is mandatory in all Holberton School projects**
+A proyect to learn how to work in git and vi
